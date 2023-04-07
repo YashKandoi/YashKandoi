@@ -13,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:mortar_board: I am Yash Kandoi, a Computer Science sophomore in BITS Pilani, Pilani. 
+
+:computer: I am really enthusiastic about learning new technologies. I completed few college club recruitment tasks in Flutter in 2022. Then I worked in JAVA to create a theatre ticket booking system for one of my courses. I really enjoyed creating the GUI for that. Currently I am working in Python to write codes for homomorphic encrytpion.
+
+:badminton: Apart from my usual coding life, I enjoy playing badminton and reading self-help books. My favourite so far has been The Subtle Art by Mark Manson.
+
+My statistics:
+
