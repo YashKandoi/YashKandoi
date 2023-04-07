@@ -20,5 +20,17 @@ Here are some ideas to get you started:
 
 :badminton: Apart from my usual coding life, I enjoy playing badminton and reading self-help books. My favourite so far has been The Subtle Art by Mark Manson.
 
-My statistics:
+---
+
+### :chart_with_upwards_trend: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashKandoi&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKandoi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 
